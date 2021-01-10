@@ -2,9 +2,5 @@
 public class Hello_world{
 
 public static void main(String[] args){
-<<<<<<< HEAD
-} 
-=======
-;} 
->>>>>>> mx
+}System.out.println("mx");
 			}
