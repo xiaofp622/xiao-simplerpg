@@ -8,6 +8,9 @@ System.out.println("master");}
 System.out.println("mxdgggsg");
 
 
+<<<<<<< HEAD
 }
 
-			}
+=======
+}System.out.println("mxdgggsg");
+}
